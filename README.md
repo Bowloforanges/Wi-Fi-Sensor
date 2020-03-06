@@ -4,3 +4,6 @@
 More on this later.
 
 __ Developed by Jorge Soriano Cáceres. __
+
+
+Recompiled driver for Ubuntu 14.04.1 with kernel tag Ubuntu-3.13.0-32.57 is contained inside "iwlwifi-modified.zip"
